@@ -1,0 +1,22 @@
+2
+AppleIphone
+Table
+34
+false
+900000
+06/11/2111
+applestore
+very good
+C:\Users\asus\Desktop\applephone.JPG
+SONY
+Table
+21
+true
+12000
+05/31/2552
+www.amazon.com
+Very Good Product
+C:\Users\asus\Desktop\sony.JPG
+2
+Table
+
